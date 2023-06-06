@@ -1,0 +1,19 @@
+/* Button in between - index.html */
+
+button {
+  height: 125px;
+  width: 125px;
+  margin-top: 50vh;
+  border-radius: 200px;
+  position: absolute;
+  left: 50%;
+  color: white;
+  background-color: #0d0d0d;
+  font-size: 20px;
+  border-color: #404040;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #333333;
+}
